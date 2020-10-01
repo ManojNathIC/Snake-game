@@ -1,1 +1,1 @@
-Snake-Game in python 
+Snake Game in python 
